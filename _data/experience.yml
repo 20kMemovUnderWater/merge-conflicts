@@ -1,7 +1,12 @@
 # Jobs
 
 # Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+- company: Polotsk state college of economics
+  position: .NET developer
+  duration: Septemver, 2017 &mdash; June, 2019
+  summary: .NET C# WPF developer
+  
+- company: Vladimir Starovoyt corp.
+  position: ASP.NET developer
+  duration: March, 2017 &mdash; June, 2020
+  summary: ASP.NET CORE MVC WEB API developer (trying to be)
